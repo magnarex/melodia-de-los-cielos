@@ -22,7 +22,7 @@ models:
 ```
 ---
 ### Clue Details
- - 
+ - [[Shi Yun]] la recupera del cadáver de la [[Señora Orwell]].
 
 ---
 ```RpgManagerID

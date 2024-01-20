@@ -4,9 +4,9 @@ tags: []
 ---
 ```RpgManagerData
 data: 
-  synopsis: "Casa del [[Doctor Thomas Harvey Orwell]] donde vive con su madre."
+  synopsis: 
   complete: false
-  address: "EASTLINGTON"
+  address: 
 ```
 ```RpgManager
 models: 
@@ -26,14 +26,16 @@ models:
 ```
 ---
 ### Location Details
- - 
+ - Hay atillos llenos de cadáveres que gimen.
+ - Estanterías llenas de libros escritos en idiomas incomprensibles (y malignos).
+	 - Hay una nota en uno de estos libros: [[pista]]
 
 ---
 ```RpgManagerID
 ### DO NOT EDIT MANUALLY IF NOT INSTRUCTED TO DO SO ###
 type: 128
 campaignSettings: 0
-id: "f1d0cb30-1720-4234-922f-44de30739b14"
+id: "7fbb4fd3-b094-466d-8cf8-70d477e11d7d"
 campaignId: "2f5b42e8-eb40-4b4a-958c-0ed62349ade9"
 parentId: "2f5b42e8-eb40-4b4a-958c-0ed62349ade9"
 positionInParent: 0

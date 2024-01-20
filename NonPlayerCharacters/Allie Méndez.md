@@ -4,10 +4,10 @@ tags: []
 ---
 ```RpgManagerData
 data: 
-  synopsis: 
+  synopsis: "Dueño de la [[Casa de subastas Méndez]]. Va en silla de ruedas y es muy malhumorado. Se ha enamorado de [[Shi Yun]] debido a su carisma oriental."
   death: 
   dob: 
-  goals: 
+  goals: "No quiere dejar que nadie reúna las cajas de música."
   pronoun: 
   complete: false
   images: 

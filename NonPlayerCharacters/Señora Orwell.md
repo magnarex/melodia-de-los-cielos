@@ -4,7 +4,7 @@ tags: []
 ---
 ```RpgManagerData
 data: 
-  synopsis: "Madre del [[Doctor Thomas Harvey Orwell]]. Actual poseedora de una de las cajas de música."
+  synopsis: "Madre del [[Doctor Thomas Harvey Orwell]]. Actual poseedora de una de las cajas de música. Está muerta y pudriéndose en su habitación en la [[Casa del Doctor Orwell]]."
   death: 
   dob: 
   goals: 

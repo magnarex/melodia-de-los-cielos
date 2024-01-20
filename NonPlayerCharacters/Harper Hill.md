@@ -4,7 +4,7 @@ tags: []
 ---
 ```RpgManagerData
 data: 
-  synopsis: 
+  synopsis: "Trabajadora de la [[Casa de subastas Méndez]]. Es la recepcionista."
   death: 
   dob: 
   goals: 
