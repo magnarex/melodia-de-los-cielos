@@ -7,6 +7,9 @@ data:
   synopsis: 
   complete: false
   address: 
+  images: 
+    - path: "https://s3.amazonaws.com/files.d20.io/images/373917068/EOlmPtI9eJAyWWlvTudo0g/max.png?1704396861"
+      caption: ""
 ```
 ```RpgManager
 models: 
@@ -28,7 +31,7 @@ models:
 ### Location Details
  - Hay atillos llenos de cadáveres que gimen.
  - Estanterías llenas de libros escritos en idiomas incomprensibles (y malignos).
-	 - Hay una nota en uno de estos libros: [[pista]]
+	 - Hay una nota en uno de estos libros: [[Única página legible en el Sótano del Dr. Orwell]].
 
 ---
 ```RpgManagerID
