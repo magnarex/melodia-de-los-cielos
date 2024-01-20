@@ -7,9 +7,7 @@ data:
   synopsis: 
   complete: false
   address: 
-  images: 
-    - path: "https://s3.amazonaws.com/files.d20.io/images/373917068/EOlmPtI9eJAyWWlvTudo0g/max.png?1704396861"
-      caption: ""
+  images: []
 ```
 ```RpgManager
 models: 

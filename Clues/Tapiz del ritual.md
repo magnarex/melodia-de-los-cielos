@@ -4,7 +4,7 @@ tags: []
 ---
 ```RpgManagerData
 data: 
-  synopsis: 
+  synopsis: "Es un tapiz mágico que está en la [[Tienda de Shi Yun]]."
   complete: false
   found: 
 relationships: 
