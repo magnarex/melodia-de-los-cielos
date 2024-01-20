@@ -4,12 +4,16 @@ tags: []
 ---
 ```RpgManagerData
 data: 
-  synopsis: 
+  synopsis: "Hijo del Señor Aigner, es un poco pussy."
   death: 
   dob: 
   goals: 
   pronoun: 
   complete: false
+relationships: 
+  - type: "unidirectional"
+    path: "NonPlayerCharacters/Friedrich Aigner.md"
+    description: "Padre"
 ```
 ```RpgManager
 models: 
@@ -42,3 +46,4 @@ campaignId: "2f5b42e8-eb40-4b4a-958c-0ed62349ade9"
 parentId: "2f5b42e8-eb40-4b4a-958c-0ed62349ade9"
 positionInParent: 0
 ```
+[[Friedrich Aigner|]]

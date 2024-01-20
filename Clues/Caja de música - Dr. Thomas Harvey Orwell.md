@@ -6,32 +6,29 @@ tags: []
 data: 
   synopsis: 
   complete: false
-  dob: 
-  death: 
-  goals: 
-  pronoun: 
+  found: 
 ```
 ```RpgManager
 models: 
   header: true
   lists: 
+    subplots: 
     pcs: 
-      relationship: "unidirectional"
     npcs: 
-      relationship: "unidirectional"
-    factions: 
     locations: 
+    clues: 
+    events: 
 ```
 ---
-### Player Character Notes
+### Clue Details
  - 
 
 ---
 ```RpgManagerID
 ### DO NOT EDIT MANUALLY IF NOT INSTRUCTED TO DO SO ###
-type: 32
+type: 512
 campaignSettings: 0
-id: "eb24f9c2-dab1-4eb3-bcf7-064e76eddc12"
+id: "aeb4ae5d-f27c-4a07-ae82-497d75d85d12"
 campaignId: "2f5b42e8-eb40-4b4a-958c-0ed62349ade9"
 parentId: "2f5b42e8-eb40-4b4a-958c-0ed62349ade9"
 positionInParent: 0
