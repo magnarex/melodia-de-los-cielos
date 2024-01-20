@@ -10,6 +10,9 @@ data:
   goals: 
   pronoun: 
   complete: false
+  images: 
+    - path: "https://s3.amazonaws.com/files.d20.io/images/373917096/YUbmma7BK-kcoSdQCmld9A/max.png?1704396873"
+      caption: ""
 ```
 ```RpgManager
 models: 

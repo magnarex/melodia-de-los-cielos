@@ -4,15 +4,10 @@ tags: []
 ---
 ```RpgManagerData
 data: 
-  synopsis: 
-  death: 
-  dob: 
-  goals: 
-  pronoun: 
+  synopsis: "ISLINGTON"
   complete: false
-  images: 
-    - path: "https://s3.amazonaws.com/files.d20.io/images/373917862/45rIinHMC2EyT68J7ditcw/max.png?1704397251"
-      caption: ""
+  found: 
+  address: "ISLINGTON"
 ```
 ```RpgManager
 models: 
@@ -20,27 +15,21 @@ models:
   lists: 
     subplots: 
     pcs: 
-      relationship: "unidirectional"
     npcs: 
-      relationship: "unidirectional"
-    factions: 
     locations: 
-    events: 
     clues: 
+    events: 
 ```
 ---
-### Non Player Character Notes
- - 
-
-### Non Player Character Story
+### Clue Details
  - 
 
 ---
 ```RpgManagerID
 ### DO NOT EDIT MANUALLY IF NOT INSTRUCTED TO DO SO ###
-type: 64
+type: 512
 campaignSettings: 0
-id: "d0cb5ba4-8f8a-40ee-9d11-bb8cf6892fb1"
+id: "aeb4ae5d-f27c-4a07-ae82-497d75d85d12"
 campaignId: "2f5b42e8-eb40-4b4a-958c-0ed62349ade9"
 parentId: "2f5b42e8-eb40-4b4a-958c-0ed62349ade9"
 positionInParent: 0

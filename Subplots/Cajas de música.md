@@ -50,4 +50,4 @@ campaignId: "2f5b42e8-eb40-4b4a-958c-0ed62349ade9"
 parentId: "2f5b42e8-eb40-4b4a-958c-0ed62349ade9"
 positionInParent: 0
 ```
-[[Caja de música - Señor Aigner]]
+[[Caja de música - Mia Small]]

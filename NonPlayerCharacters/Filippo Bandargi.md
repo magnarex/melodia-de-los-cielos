@@ -10,9 +10,6 @@ data:
   goals: 
   pronoun: 
   complete: false
-  images: 
-    - path: "https://s3.amazonaws.com/files.d20.io/images/373917862/45rIinHMC2EyT68J7ditcw/max.png?1704397251"
-      caption: ""
 ```
 ```RpgManager
 models: 
@@ -40,7 +37,7 @@ models:
 ### DO NOT EDIT MANUALLY IF NOT INSTRUCTED TO DO SO ###
 type: 64
 campaignSettings: 0
-id: "d0cb5ba4-8f8a-40ee-9d11-bb8cf6892fb1"
+id: "095c2071-d0c9-40e2-9a9c-f6b7ae52887f"
 campaignId: "2f5b42e8-eb40-4b4a-958c-0ed62349ade9"
 parentId: "2f5b42e8-eb40-4b4a-958c-0ed62349ade9"
 positionInParent: 0

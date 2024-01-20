@@ -10,6 +10,9 @@ data:
   goals: 
   pronoun: 
   complete: false
+  images: 
+    - path: "https://s3.amazonaws.com/files.d20.io/images/374013627/BMCyJFJqPlsm0n7GPHmFtQ/max.png?1704462065"
+      caption: ""
 relationships: 
   - type: "unidirectional"
     path: "NonPlayerCharacters/Friedrich Aigner.md"

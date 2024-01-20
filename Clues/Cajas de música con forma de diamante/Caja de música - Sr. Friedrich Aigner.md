@@ -4,7 +4,7 @@ tags: []
 ---
 ```RpgManagerData
 data: 
-  synopsis: 
+  synopsis: "BROMPTON"
   complete: false
   found: 
 ```
