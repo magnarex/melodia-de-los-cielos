@@ -7,8 +7,6 @@ data:
   synopsis: 
   complete: false
   address: 
-```
-```RpgManager
 models: 
   header: true
   lists: 
