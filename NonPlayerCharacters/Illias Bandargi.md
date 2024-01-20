@@ -4,15 +4,12 @@ tags: []
 ---
 ```RpgManagerData
 data: 
-  synopsis: ""
+  synopsis: "NO SABE LEER. Es el hijo de [[Filippo Bandargi]]."
   death: 
   dob: 
   goals: 
   pronoun: 
   complete: false
-  images: 
-    - path: "https://s3.amazonaws.com/files.d20.io/images/374013634/hEaR68_4XzFD2UgkHT4FLA/max.png?1704462073"
-      caption: ""
 ```
 ```RpgManager
 models: 
@@ -40,7 +37,7 @@ models:
 ### DO NOT EDIT MANUALLY IF NOT INSTRUCTED TO DO SO ###
 type: 64
 campaignSettings: 0
-id: "c8f7413f-fe05-4d07-a827-288bf3ab0bf1"
+id: "8780dd05-b83e-4110-9db8-a12e13f7d105"
 campaignId: "2f5b42e8-eb40-4b4a-958c-0ed62349ade9"
 parentId: "2f5b42e8-eb40-4b4a-958c-0ed62349ade9"
 positionInParent: 0
