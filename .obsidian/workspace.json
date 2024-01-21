@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "fc5790cb126d0d14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "746125cf53b78506",
             "type": "leaf",
             "state": {
@@ -55,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NonPlayerCharacters/Hansel Aigner.md",
+                "file": "Notas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NonPlayerCharacters/Hansel Aigner.md",
+                "file": "Notas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NonPlayerCharacters/Hansel Aigner.md"
+                "file": "Notas.md"
               }
             }
           },
@@ -220,8 +233,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "726e6b09b81f468e",
+  "active": "fc5790cb126d0d14",
   "lastOpenFiles": [
+    "NonPlayerCharacters/Hansel Aigner.md",
+    "Notas.md",
     "README.md",
     "mkdocs.yml",
     "LICENSE",
@@ -256,10 +271,8 @@
     "NonPlayerCharacters/Mujer orquesta.md",
     "NonPlayerCharacters/Karine Aigner.md",
     "NonPlayerCharacters/Inspector Korolev.md",
-    "NonPlayerCharacters/Hansel Aigner.md",
     "NonPlayerCharacters/Doctor Thomas Harvey Orwell.md",
     "NonPlayerCharacters/Filippo Bandargi.md",
-    "Clues/Pistas/Pista 8 - Nota amenazante.md",
-    "Clues/Pistas/Pista 4 - Firma encontrada en MIASMA'S.md"
+    "Clues/Pistas/Pista 8 - Nota amenazante.md"
   ]
 }
